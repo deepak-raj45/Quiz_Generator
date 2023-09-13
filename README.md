@@ -1,1 +1,1 @@
-# quiz-genration-system
+# quiz-generation-system
